@@ -42,8 +42,8 @@ Additionally, they will gain hands-on practice with Postman to test API function
 
 ### Course landing pages
 
-- [SEB - Software Engineering Bootcamp](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/express-api-pets-back-end/canvas-landing-pages/seb.html)
-- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/express-api-pets-back-end/canvas-landing-pages/fallback.html)
+- [SEB - Software Engineering Bootcamp](./canvas-landing-pages/seb.md)
+- [Fallback](./canvas-landing-pages/fallback.md)
 
 ### Resources
 
